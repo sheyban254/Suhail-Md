@@ -12,6 +12,18 @@
       "value": "Suhail Ser",
       "required" :true
     },   
+
+    "AUTO_READ_STATUS": {
+      "description": "put the value 'true' if you want bot to auto read all status ",
+      "value": "true",
+      "required" :false
+    },    
+
+    "AUTO_SAVE_STATUS": {
+      "description": "put the value 'true' if you want bot to automatically save all status",
+      "value": "true",
+      "required" :false
+    },    
      
     "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
